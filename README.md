@@ -5,6 +5,21 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.5.18-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+## 🌐 Live Demo
+
+**🚀 [Try Rencana Kita Live](https://rencana-kita.vercel.app/)**
+
+> Experience the full power of AI-powered travel planning in your browser!
+
+### 📸 Screenshots
+
+| Explorer Mode | Day Planner Mode |
+|---------------|------------------|
+| ![Explorer Mode](https://via.placeholder.com/400x250/4FC08D/white?text=Explorer+Mode) | ![Day Planner](https://via.placeholder.com/400x250/3178C6/white?text=Day+Planner) |
+
+*Screenshots will be updated with actual app interface*
 
 ## ✨ Fitur Utama
 
@@ -74,6 +89,10 @@
    ```
    http://localhost:5173/
    ```
+
+### 🎮 Try Without Installation
+
+Want to test the app immediately? **[Visit the live demo](https://rencana-kita.vercel.app/)** - no setup required!
 
 ## 🔧 Setup API Keys
 
